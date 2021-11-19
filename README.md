@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact: **Fascinated by CNC milling and 3D printing, recently started playing with masked SLA 3D printing. Very interested in metallurgy and jewellery.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Audio Post-production for Eco Travellers &lpar;2021&rpar;](https://www.hammyhavoc.com/audio-post-production-for-eco-travellers-2021/)
 - [Interview with TechBehemoths](https://techbehemoths.com/blog/interview-hammy-havoc-splitanatom)
