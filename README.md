@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammy Havoc</h1>
 <h3 align="center">CEO of Split An Atom and Previous Magazine. Composer for film and video games including All Walls Must Fall and Manta. Music as The Orion Correlation.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammyhavoc" alt="hammyhavoc" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hammyhavoc" target="blank"><img src="https://img.shields.io/twitter/follow/hammyhavoc?logo=twitter&style=for-the-badge" alt="hammyhavoc" /></a> </p>
 
 - 🔭 I’m currently working on [Manta](https://www.hammyhavoc.com/my-original-score-for-manta-2022/)
