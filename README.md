@@ -17,11 +17,11 @@
 
 - 💬 Ask me about **audio, Linux, open source**
 
-- 📫 How to reach me **me@hammyhavoc.com**
+- 📫 Reach me on **me@hammyhavoc.com**
 
-- 📄 Know about my experiences [https://www.hammyhavoc.com](https://www.hammyhavoc.com)
+- 📄 Read about my work and life on [https://www.hammyhavoc.com](https://www.hammyhavoc.com)
 
-- ⚡ Fun fact **Still fascinated by CNC milling and 3D printing, more recently started playing with masked SLA 3D printing. Very interested in metallurgy and jewellery.**
+- ⚡ Fun fact **Fascinated by CNC milling and 3D printing, more recently started playing with masked SLA 3D printing. Very interested in metallurgy and jewellery.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
