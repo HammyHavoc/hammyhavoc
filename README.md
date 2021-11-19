@@ -29,6 +29,7 @@
 - [Interview with TechBehemoths](https://techbehemoths.com/blog/interview-hammy-havoc-splitanatom)
 - [My Original Score for Manta &lpar;2022&rpar;](https://www.hammyhavoc.com/my-original-score-for-manta-2022/)
 - [Audio Post-Production for The Barima-Mora Passage &lpar;2020&rpar;](https://www.hammyhavoc.com/audio-post-production-for-the-barima-mora-passage-2020/)
+- [Audio Post-Production for INSIDE Reel Season 2](https://www.hammyhavoc.com/audio-post-production-for-inside-reel-season-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
