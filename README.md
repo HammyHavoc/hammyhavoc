@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/hammyhavoc" target="blank"><img src="https://img.shields.io/twitter/follow/hammyhavoc?logo=twitter&style=for-the-badge" alt="hammyhavoc" /></a> </p>
 
-- 🔭 I’m currently working on [Manta](https://www.hammyhavoc.com/my-original-score-for-manta-2022/)
+- 🔭 I’m currently working on [Manta](https://www.hammyhavoc.com/my-original-score-for-manta-2022/). You can see my life at a glance on my [Now page](https://www.hammyhavoc.com/now/)
 
-- 🌱 I’m currently learning **American Sign Language**
+- 🌱 I’m currently learning **American Sign Language** every time the missus leaves the room to surprise her
 
-- 👯 I’m looking to collaborate on [video games](https://www.splitanatom.com/services/audio-production/scoring/)
+- 👯 I’m looking to collaborate and offer more [music for video games](https://www.splitanatom.com/services/audio-production/scoring/)
 
-- 🤝 I’m looking for help with [Matrix](https://github.com/matrix-org)
+- 🤝 I’m looking for help improving [Matrix](https://github.com/matrix-org)
 
 - 👨‍💻 All of my projects are available at [https://www.splitanatom.com](https://www.splitanatom.com)
 
@@ -21,7 +21,7 @@
 
 - 📄 Read about my work and life on [https://www.hammyhavoc.com](https://www.hammyhavoc.com)
 
-- ⚡ Fun fact **Fascinated by CNC milling and 3D printing, more recently started playing with masked SLA 3D printing. Very interested in metallurgy and jewellery.**
+- ⚡ Fun fact: **Fascinated by CNC milling and 3D printing, recently started playing with masked SLA 3D printing. Very interested in metallurgy and jewellery.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
