@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **American Sign Language**
 
-- 👯 I’m looking to collaborate on [video games](https://www.splitanatom.com/services/audio-production/scoring/)
+- 👯 I’m looking to collaborate and offer more [video game music](https://www.splitanatom.com/services/audio-production/scoring/)
 
 - 🤝 I’m looking for help with [Matrix](https://github.com/matrix-org)
 
