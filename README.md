@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hammyhavoc" target="blank"><img src="https://img.shields.io/twitter/follow/hammyhavoc?logo=twitter&style=for-the-badge" alt="hammyhavoc" /></a> </p>
 
-- 🔭 I’m currently working on [Manta](https://www.hammyhavoc.com/my-original-score-for-manta-2022/)
+- 🔭 I’m currently working on [Manta](https://www.hammyhavoc.com/my-original-score-for-manta-2022/). You can see my life at a glance on my [Now page](https://www.hammyhavoc.com/now/]
 
 - 🌱 I’m currently learning **American Sign Language**
 
