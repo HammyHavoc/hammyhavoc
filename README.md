@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Manta](https://www.hammyhavoc.com/my-original-score-for-manta-2022/). You can see my life at a glance on my [Now page](https://www.hammyhavoc.com/now/)
 
-- 🌱 I’m currently learning **American Sign Language**
+- 🌱 I’m currently learning **American Sign Language every time the missus leaves the room to surprise her**
 
 - 👯 I’m looking to collaborate and offer more [music for video games](https://www.splitanatom.com/services/audio-production/scoring/)
 
