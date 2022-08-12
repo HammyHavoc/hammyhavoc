@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Mental Health Benefits of Music](https://www.hammyhavoc.com/the-mental-health-benefits-of-music/)
 - [Interview with IMakeFOSS](https://www.hammyhavoc.com/interview-with-imakefoss/)
 - [Audio Post-production for Eco Travellers &lpar;2021&rpar;](https://www.hammyhavoc.com/audio-post-production-for-eco-travellers-2021/)
 - [Interview with TechBehemoths](https://techbehemoths.com/blog/interview-hammy-havoc-splitanatom)
 - [My Original Score for Manta &lpar;2022&rpar;](https://www.hammyhavoc.com/my-original-score-for-manta-2022/)
-- [Audio Post-Production for The Barima-Mora Passage &lpar;2020&rpar;](https://www.hammyhavoc.com/audio-post-production-for-the-barima-mora-passage-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
