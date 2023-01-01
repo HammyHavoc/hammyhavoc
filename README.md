@@ -25,10 +25,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Imbotero Research Center: Merging Coastal Communities &amp; Science &lpar;2022&rpar;](https://www.hammyhavoc.com/imbotero-research-center-merging-coastal-communities-science-2022/)
-- [The Mental Health Benefits of Music](https://www.hammyhavoc.com/the-mental-health-benefits-of-music/)
-- [Interview with IMakeFOSS](https://www.hammyhavoc.com/interview-with-imakefoss/)
-- [Audio Post-production for Eco Travellers &lpar;2021&rpar;](https://www.hammyhavoc.com/audio-post-production-for-eco-travellers-2021/)
+- [Imbotero Research Center: Merging Coastal Communities &amp; Science &lpar;2022&rpar;](https://hammyhavoc.com/imbotero-research-center-merging-coastal-communities-science-2022/)
+- [The Mental Health Benefits of Music](https://hammyhavoc.com/the-mental-health-benefits-of-music/)
+- [Interview with IMakeFOSS](https://hammyhavoc.com/interview-with-imakefoss/)
+- [Audio Post-production for Eco Travellers &lpar;2021&rpar;](https://hammyhavoc.com/audio-post-production-for-eco-travellers-2021/)
 - [Interview with TechBehemoths](https://techbehemoths.com/blog/interview-hammy-havoc-splitanatom)
 <!-- BLOG-POST-LIST:END -->
 
