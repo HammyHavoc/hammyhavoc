@@ -19,7 +19,7 @@
 
 - 📫 Reach me on **me@hammyhavoc.com**
 
-- 📄 Read about my work and life on [https://www.hammyhavoc.com](https://www.hammyhavoc.com)
+- 📄 Read about my work and life on [https://hammyhavoc.com](https://hammyhavoc.com)
 
 - ⚡ Fun fact: **Fascinated by CNC milling and 3D printing, recently started playing with masked SLA 3D printing. Very interested in metallurgy and jewellery.**
 
