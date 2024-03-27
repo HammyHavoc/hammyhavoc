@@ -25,11 +25,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tony Warriner – Revolution: The Quest for Game Development Greatness Book Review](https://www.previousmagazine.com/tony-warriner-revolution-the-quest-for-game-development-greatness-book-review)
 - [Rising Mobile Bills Will Worsen UK Digital Divide](https://www.previousmagazine.com/rising-mobile-bills-will-worsen-uk-digital-divide)
 - [Audio Post-Production for The March Onwards &lpar;2023&rpar;](https://hammyhavoc.com/audio-post-production-for-the-march-onwards-2023/)
 - [Embracing Festival Vibes: Comfy and Stylish Outfits for a Perfect Blend](https://hammyhavoc.com/embracing-festival-vibes-comfy-and-stylish-outfits-for-a-perfect-blend/)
 - [Setting Up My Blog within the Fediverse via ActivityPub](https://hammyhavoc.com/setting-up-my-blog-within-the-fediverse-via-activitypub/)
-- [Audio Post-production for Imbotero Research Center: Merging Coastal Communities &amp; Science &lpar;2022&rpar;](https://hammyhavoc.com/imbotero-research-center-merging-coastal-communities-science-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
