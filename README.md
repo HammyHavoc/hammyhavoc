@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact: **Fascinated by CNC milling and 3D printing, recently started playing with masked SLA 3D printing. Very interested in metallurgy and jewellery.**
 
+- [Contributing to the snack food fund](https://www.paypal.com/paypalme/SplitAnAtom) or [ordering diabetes supplies to my door](https://www.amazon.co.uk/hz/wishlist/ls/M4N14UCHOG01?ref_=wl_share) is always appreciated!
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Why Blogrolls Suddenly Matter More Than Ever Before](https://hammyhavoc.com/why-blogrolls-suddenly-matter-more-than-ever-before/)
